@@ -1,8 +1,8 @@
 {
-  "/studios/page": "app/studios/page.js",
-  "/studios/[id]/page": "app/studios/[id]/page.js",
   "/page": "app/page.js",
+  "/studios/[id]/page": "app/studios/[id]/page.js",
   "/my-bookings/page": "app/my-bookings/page.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/login/page": "app/login/page.js"
+  "/studios/page": "app/studios/page.js",
+  "/login/page": "app/login/page.js",
+  "/_not-found/page": "app/_not-found/page.js"
 }
