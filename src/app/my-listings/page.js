@@ -1,5 +1,6 @@
 'use client';
 
+
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import PrivateRoute from '@/components/auth/PrivateRoute';
