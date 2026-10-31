@@ -1,0 +1,14 @@
+{
+  "/about/page": "app/about/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/add-studio/page": "app/add-studio/page.js",
+  "/my-listings/page": "app/my-listings/page.js",
+  "/login/page": "app/login/page.js",
+  "/my-bookings/page": "app/my-bookings/page.js",
+  "/page": "app/page.js",
+  "/register/page": "app/register/page.js",
+  "/studios/[id]/page": "app/studios/[id]/page.js",
+  "/studios/edit/[id]/page": "app/studios/edit/[id]/page.js",
+  "/studios/page": "app/studios/page.js"
+}
