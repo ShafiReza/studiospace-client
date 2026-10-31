@@ -1,5 +1,6 @@
 'use client';
 
+
 import Link from 'next/link';
 import PrivateRoute from '@/components/auth/PrivateRoute';
 import { useAuth } from '@/context/AuthContext';
